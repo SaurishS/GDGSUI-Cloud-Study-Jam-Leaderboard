@@ -45,7 +45,7 @@ function Profilebadge() {
 
 
             <div className="fixed bottom-0  text-white text-center w-full">
-                {!(Progress === 100) && <div className="gdscMLRITLogo m-auto w-full mt-16 py-4 text-center flex items-center justify-center">
+                {!(Progress === 100) && <div className="gdgocsuiLogo m-auto w-full mt-16 py-4 text-center flex items-center justify-center">
                     <svg width="236" height="37" viewBox="0 0 236 37" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <g clipPath="url(#clip0_83_308)">
                             <path d="M32.437 16.916C34.8046 15.5544 37.1659 14.1818 39.5416 12.8345C41.7965 11.5552 44.4494 12.7349 44.9607 15.2242C45.2566 16.6643 44.6144 18.2199 43.3159 18.9776C39.0589 21.4615 34.7956 23.9355 30.5112 26.3717C29.1851 27.1257 27.8191 26.987 26.6106 26.063C25.3829 25.1249 24.996 23.831 25.2839 22.325C25.6127 21.1785 26.365 20.412 27.391 19.8386C29.0873 18.8907 30.7564 17.8928 32.437 16.916Z" fill="#FABC05" />
